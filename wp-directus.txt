@@ -1,0 +1,2 @@
+- Membuat database untuk IoT
+- Membuat model database
